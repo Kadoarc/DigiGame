@@ -3,7 +3,7 @@ if instance_exists(obj_player)
 {
 	if distance_to_object(obj_player) < 100
 	{
-		if !collision_line(x,y, obj_player.x, obj_player.y, obj_wall,1,1)
+		if !collision_line(x,y, obj_player.x, obj_player.y, obj_wall || oSolid,1,1)
 		{
 if (alarm[0]) == -1 {
 	
@@ -18,9 +18,4 @@ with (bullet)
 		}
 	}
 }
-else
-{
-	sprite_index = spr_bulldog;
 }
-}
-

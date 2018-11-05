@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "592f949f-f8d9-46af-a14e-422a577710ab",
+            "Value": {
+                "id": "595d424d-fc20-46c2-aee1-7bd7ea00f21e",
+                "resourcePath": "sprites\\sprite44\\sprite44.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5ab4ac73-0672-40fd-a854-844e42ebbb11",
             "Value": {
                 "id": "17e47d86-f6bc-49fb-9ce0-844a7ebfc691",
@@ -543,14 +551,6 @@
             }
         },
         {
-            "Key": "79d68fae-b442-4e49-b3eb-8d6b60d92ec0",
-            "Value": {
-                "id": "df4278a9-07d7-45ce-b4b3-2d0c98813d5c",
-                "resourcePath": "sprites\\spr_dualiesfiring\\spr_dualiesfiring.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7a1d53b5-da5b-49e7-b291-25422f52f908",
             "Value": {
                 "id": "5411788b-9926-4600-ab0c-b4f41d63d7e4",
@@ -564,14 +564,6 @@
                 "id": "5a614778-86b8-427d-889e-66cfee7a8621",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
-            }
-        },
-        {
-            "Key": "82832279-7046-47de-8c42-5488d79f1cb5",
-            "Value": {
-                "id": "7ea26bad-c6b2-4e09-9cdb-f35461e45e0c",
-                "resourcePath": "objects\\obj_platformSHORT\\obj_platformSHORT.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -675,14 +667,6 @@
             "Value": {
                 "id": "8be267d9-0acb-4777-bc98-7d6498b3e043",
                 "resourcePath": "sprites\\spr_bulldog\\spr_bulldog.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9a0803fc-f52d-47f3-a583-154f82b10c01",
-            "Value": {
-                "id": "9fe99bb6-7f78-4d48-85ec-93700ae02052",
-                "resourcePath": "sprites\\spr_dualies\\spr_dualies.yy",
                 "resourceType": "GMSprite"
             }
         },
