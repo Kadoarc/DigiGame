@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1280f1dc-8290-4399-af61-ed319a5decd3",
+            "Value": {
+                "id": "3fcd80c1-5d94-46ab-8b02-14c274ba8a6a",
+                "resourcePath": "rooms\\rm_StarryNight\\rm_StarryNight.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "13d62c86-1de1-4446-9aed-c0f6456dc0d4",
             "Value": {
                 "id": "a7b8611b-0cbf-4e00-b9bf-3e9e5920cb9d",
