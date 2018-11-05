@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "0c3dc2b5-d59a-4057-8dc3-8af1610c08f8",
-            "Value": {
-                "id": "e7a5e7a0-8521-4eea-bdfc-98dd852521cf",
-                "resourcePath": "views\\0c3dc2b5-d59a-4057-8dc3-8af1610c08f8.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "0c7d51c4-ce7c-4014-93d4-b3674cca2f57",
             "Value": {
                 "id": "88e8085d-6ad9-4e13-a6c5-5f7cb7ef05b9",
@@ -444,14 +436,6 @@
                 "id": "9457c476-7279-483e-a29c-8ca2605604c8",
                 "resourcePath": "objects\\obj_enemyswing\\obj_enemyswing.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "64275a7a-3db9-4892-8347-543fb29cde3a",
-            "Value": {
-                "id": "03b1e030-ac99-42a9-946d-561d46a09a72",
-                "resourcePath": "sprites\\background\\background.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -935,14 +919,6 @@
             }
         },
         {
-            "Key": "d1f6c610-b685-4617-b1e3-a956ce2df373",
-            "Value": {
-                "id": "0f56d220-17e7-48dd-ac4c-0a12b68f0846",
-                "resourcePath": "sprites\\spr_darkorb\\spr_darkorb.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d42cf2f8-0351-46ce-bce3-ab402dc62fea",
             "Value": {
                 "id": "659a819c-ecda-4dc9-910d-d04e5267abf0",
@@ -1063,14 +1039,6 @@
             }
         },
         {
-            "Key": "e806da8e-cd2d-4c04-adc1-a2f491c72198",
-            "Value": {
-                "id": "17af4fbe-4f93-49d2-ad3b-e73fc90d53bc",
-                "resourcePath": "sprites\\spr_darkMonster\\spr_darkMonster.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e83b03e6-8e8f-47d4-aa54-f3b7e17a77e5",
             "Value": {
                 "id": "274ecf1f-ba31-4160-b974-5672c772e95c",
@@ -1092,14 +1060,6 @@
                 "id": "63c5c995-fc94-4099-98cb-b19159af4c0c",
                 "resourcePath": "objects\\obj_system\\obj_system.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ebd1549b-4bc6-47f0-bd07-63213f1c520f",
-            "Value": {
-                "id": "94f488da-ac7b-42a1-a90d-5dd51bbfb008",
-                "resourcePath": "rooms\\rm_StarryNight\\rm_StarryNight.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
