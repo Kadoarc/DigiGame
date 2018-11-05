@@ -5,12 +5,12 @@ ysp += grav;
 
 if (obj_player.x > x)
 {
-	image_xscale = -1
+	image_xscale = 1
 	mirror = image_xscale;
 }
 else
 {
-	image_xscale = 1
+	image_xscale = -1
 	mirror = image_xscale;
 }
 //Horizontal Collision

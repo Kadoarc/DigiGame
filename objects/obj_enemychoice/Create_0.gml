@@ -4,7 +4,7 @@
 // You can write your code in this editor
 var myMessage;
 
-myDialogue[0,0] = "Which of these cards do you need for a Royal Flush?";
+myDialogue[0,0] = "What cards do you need for a Royal Flush?";
 
 myDialogue[0,1] = "Ace, King, Queen, Jack, Ten" + "01";
 myDialogue[0,2] = "Ten, Seven, Five, Three, Two!" +  "02";

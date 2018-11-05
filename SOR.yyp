@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "228e20bf-adf7-4613-ac78-c3d2ba8928dc",
+            "Value": {
+                "id": "2fe7c238-58c6-4d12-aff8-452852b04291",
+                "resourcePath": "sprites\\spr_portal\\spr_portal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "244d5cac-4bec-4964-8272-2f0e4e5fd59e",
             "Value": {
                 "id": "26b0a21d-b16f-4dbc-9563-7d8b9b42e5c8",
@@ -564,6 +572,22 @@
                 "id": "5a614778-86b8-427d-889e-66cfee7a8621",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "800fff95-935d-4327-bba5-ac0757bea697",
+            "Value": {
+                "id": "869525fe-afe1-4253-8e8f-e5db3885ba7c",
+                "resourcePath": "objects\\obj_artdoor\\obj_artdoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "81cca6bc-8de0-4393-a788-cd04ce751ce7",
+            "Value": {
+                "id": "dc268378-f33f-4201-980e-a2dcee39e76c",
+                "resourcePath": "objects\\obj_portal\\obj_portal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1108,6 +1132,14 @@
                 "id": "9a46309e-cb76-448b-bba3-e4468ca2ade9",
                 "resourcePath": "views\\f453d4c1-e296-44ea-8971-eaa9535b52e7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f59a58bb-e8a1-4b57-b984-45c8a1ec6306",
+            "Value": {
+                "id": "c0883015-1c3b-4c4d-8783-3e075d94d20a",
+                "resourcePath": "sprites\\spr_spritedoor\\spr_spritedoor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
