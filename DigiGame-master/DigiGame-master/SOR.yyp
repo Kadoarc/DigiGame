@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "26cb2af0-298f-490a-ba3f-0117c1772a80",
+            "Value": {
+                "id": "bb698d4e-c9e3-4873-8864-4c6e802208de",
+                "resourcePath": "sprites\\spr_FloorDark\\spr_FloorDark.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "298f7f45-f0a2-46d2-90b4-ed54089b516f",
             "Value": {
                 "id": "e289129a-6aaf-4300-ac07-7607002fa2d9",
@@ -299,6 +307,14 @@
             "Value": {
                 "id": "801dabd9-7b8b-4a13-acf1-b1727eb0c458",
                 "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4088f09e-5134-48c3-b4c5-73ca7ae468eb",
+            "Value": {
+                "id": "b6cd3cc5-ab5d-4285-aa98-661db2e290ad",
+                "resourcePath": "objects\\obj_Floor\\obj_Floor.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -487,6 +503,14 @@
             }
         },
         {
+            "Key": "65a52b74-ade2-4581-8293-66c926edc23a",
+            "Value": {
+                "id": "5fe1139a-7304-4693-9932-f4125866c97c",
+                "resourcePath": "sprites\\spr_BackGround1\\spr_BackGround1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "660ec198-c4f5-4757-8abf-1349c7256802",
             "Value": {
                 "id": "dda58c49-890f-4651-a865-f8fe6a15be96",
@@ -604,6 +628,14 @@
                 "id": "5a614778-86b8-427d-889e-66cfee7a8621",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "80c697ff-87ef-4d21-819d-5d95d8effcca",
+            "Value": {
+                "id": "af9e3ee4-35d9-44c1-8685-dcba7f223c05",
+                "resourcePath": "sprites\\spr_DarkMonster1\\spr_DarkMonster1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -847,6 +879,14 @@
             }
         },
         {
+            "Key": "ae56df1c-70ef-4ccf-bcb6-07a58e74ffc0",
+            "Value": {
+                "id": "6fe02051-cf31-40d8-b6ab-e44b8cd82c18",
+                "resourcePath": "views\\ae56df1c-70ef-4ccf-bcb6-07a58e74ffc0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b3b83cd0-b062-4565-9632-af62d092416f",
             "Value": {
                 "id": "05537a9d-822f-4a06-9421-8c2b0d9a83cf",
@@ -911,11 +951,27 @@
             }
         },
         {
+            "Key": "b71fd4c2-2808-4505-b513-e27143d3955d",
+            "Value": {
+                "id": "a5c46f52-2571-4778-9e27-f95f984ff2b7",
+                "resourcePath": "objects\\obj_WallRight\\obj_WallRight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b8c55b88-bd8b-4114-89fc-7905c3126e85",
             "Value": {
                 "id": "e0a44211-65eb-4242-b9c7-370db3d4a320",
                 "resourcePath": "objects\\obj_tanklisa\\obj_tanklisa.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b952a7fc-3743-4e95-a6da-0a83a1fbdb4f",
+            "Value": {
+                "id": "b2a32130-f4e5-4046-9e36-a2284b18241a",
+                "resourcePath": "sprites\\spr_DarkOrb1\\spr_DarkOrb1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -975,11 +1031,27 @@
             }
         },
         {
+            "Key": "c87f24f9-0e9a-4ee4-9347-4fdc4823dc60",
+            "Value": {
+                "id": "b0259c88-76d5-4609-8a32-96e70440ab2d",
+                "resourcePath": "sprites\\spr_WallDark\\spr_WallDark.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ca521df2-326d-41a5-9c70-b9dd9a0391e2",
             "Value": {
                 "id": "baacd1f2-60f9-43ac-a098-96b87e906c5f",
                 "resourcePath": "views\\ca521df2-326d-41a5-9c70-b9dd9a0391e2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cae70cb9-1425-4afb-bd64-86691ca0e992",
+            "Value": {
+                "id": "e7a276af-824b-4f50-8034-5f9d70ca770b",
+                "resourcePath": "sprites\\spr_WallDark2\\spr_WallDark2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1004,6 +1076,14 @@
                 "id": "659a819c-ecda-4dc9-910d-d04e5267abf0",
                 "resourcePath": "objects\\obj_bone\\obj_bone.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d496c275-4115-4012-bf6c-cd59fbbf1f30",
+            "Value": {
+                "id": "2b412b10-0935-4899-9659-e2adfc8206d9",
+                "resourcePath": "sprites\\sprite50\\sprite50.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1159,6 +1239,14 @@
             }
         },
         {
+            "Key": "f14a1aa5-967f-4269-a567-fba98d442394",
+            "Value": {
+                "id": "27371a3f-dbf6-4975-b7be-cc36415bc694",
+                "resourcePath": "objects\\obj_WallLeft\\obj_WallLeft.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f18eb238-4ec6-47ff-8394-2d6c3987ef8b",
             "Value": {
                 "id": "4d1eeef9-0a55-4bb5-8c04-91f70e2f1aa1",
@@ -1196,6 +1284,14 @@
                 "id": "6f4ff43a-7d84-48f9-8455-de994cee70c3",
                 "resourcePath": "sprites\\spr_tallisa\\spr_tallisa.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f8fab8e6-3fd2-4045-96da-7d316779caf6",
+            "Value": {
+                "id": "72f1a9ab-dfd8-41d7-82d3-f7b2546deed7",
+                "resourcePath": "views\\f8fab8e6-3fd2-4045-96da-7d316779caf6.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
