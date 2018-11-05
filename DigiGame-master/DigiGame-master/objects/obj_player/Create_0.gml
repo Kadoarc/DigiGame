@@ -37,3 +37,4 @@ flash = 0;
 global.hasPasscode = false;
 global.pokerPuzzleSolved = false;
 global.hasBone = true;
+global.starspowered = 0;

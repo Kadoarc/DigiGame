@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "129adc66-bd92-4e48-9068-44e02f5a1dee",
+            "Value": {
+                "id": "9ed9a20f-7444-4f06-91a8-df27187cab03",
+                "resourcePath": "objects\\obj_DarkOrb\\obj_DarkOrb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "13d62c86-1de1-4446-9aed-c0f6456dc0d4",
             "Value": {
                 "id": "a7b8611b-0cbf-4e00-b9bf-3e9e5920cb9d",
@@ -259,6 +267,14 @@
             "Value": {
                 "id": "f0b04edb-b266-4abe-80d7-d1895ecbb427",
                 "resourcePath": "objects\\obj_transition\\obj_transition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2ec13cc1-19ea-4ebe-8b89-794ba594a56f",
+            "Value": {
+                "id": "683b9541-b41b-4e94-bd4b-9633b79f8cdb",
+                "resourcePath": "objects\\obj_Star\\obj_Star.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -483,6 +499,14 @@
             "Value": {
                 "id": "da6031bc-5c80-4379-a131-b81f726ce47a",
                 "resourcePath": "objects\\obj_mainmenu\\obj_mainmenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "613156fa-580f-4ebc-81f4-063cfd65b9c3",
+            "Value": {
+                "id": "c4ff1e55-bb7c-4d1a-875e-d266eefb857e",
+                "resourcePath": "objects\\object48\\object48.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1055,11 +1079,27 @@
             }
         },
         {
+            "Key": "cb4771c0-8c4f-4497-84b9-6b4b796997f7",
+            "Value": {
+                "id": "6d241063-898b-44f4-b088-e21b6b540e71",
+                "resourcePath": "sprites\\sprite53\\sprite53.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc6c2a03-ebb2-4b0f-afd5-b0262f53ad4e",
             "Value": {
                 "id": "ed0264eb-1947-496d-a328-355a11a4b076",
                 "resourcePath": "scripts\\scr_menu\\scr_menu.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cc8e6281-2d22-4e5a-8c20-61ff25d7d637",
+            "Value": {
+                "id": "245b984e-bd8f-4500-9519-98f1cb2ac1e2",
+                "resourcePath": "objects\\obj_DarkMonster\\obj_DarkMonster.yy",
+                "resourceType": "GMObject"
             }
         },
         {
