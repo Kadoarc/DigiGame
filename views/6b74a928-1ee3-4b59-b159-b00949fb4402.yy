@@ -27,8 +27,7 @@
         "298f7f45-f0a2-46d2-90b4-ed54089b516f",
         "4bff4067-a39d-47a3-8aee-8161355e7e67",
         "67c2f353-403e-4120-9219-057b69ccb053",
-        "f19b1ca1-af1a-4523-8af1-38695cb3bbce",
-        "f59a58bb-e8a1-4b57-b984-45c8a1ec6306"
+        "f19b1ca1-af1a-4523-8af1-38695cb3bbce"
     ],
     "filterType": "GMSprite",
     "folderName": "Enviroment Sprites",

@@ -1,4 +1,3 @@
-//Script for main menu code
 switch (mpos)
 {
 	case 0:
@@ -15,7 +14,7 @@ switch (mpos)
 	
 	case 2:
 	{
-		show_message("Made by Jeremy Bungard, Daniel Joosten and Sione VR for Media Design School");
+		show_message("Made by +ONE for Media Design School");
 		break;
 	}
 	default: break;
