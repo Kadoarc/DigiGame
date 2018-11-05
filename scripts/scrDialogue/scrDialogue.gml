@@ -1,3 +1,4 @@
+//Script to create Dialogue Box
 dialogueBox = instance_create_layer(obj_player.x, obj_player.y, "Choices", objDialogueBox)
 
 with (dialogueBox)

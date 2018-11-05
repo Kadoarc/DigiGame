@@ -1,3 +1,4 @@
+//Script to create choice boxes
 view_midw = surface_get_width(application_surface)/2;
 view_midh  = surface_get_height(application_surface)/2;
 for (i = 1; i < array_length_2d(messageGiver.myDialogue, index1); ++i){

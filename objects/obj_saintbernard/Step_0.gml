@@ -3,8 +3,8 @@
 
 // Inherit the parent event
 event_inherited();
-
-
+xsp = 0;
+dir=0;
 if instance_exists(obj_player)
 {
 	if distance_to_object(obj_player) < 100
